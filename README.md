@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patilketan2021
+- 👋 Hi, I’m @instructorsai
 - 👀 I’m interested in AI Chatbot
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
